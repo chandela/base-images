@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "name": "imagemagick",
+      "version": "7.1.1-24",
+      "revision": "963f5fa2a3c87b362e2b6b29a31bff447b75925b"
+    },
+    {
+      "name": "libraw",
+      "version": "0.22.0-SNAPSHOT",
+      "revision": "d3cbbd0e9934898eb28e4963ee99b51928e2acaa"
+    },
+    {
+      "name": "libvips",
+      "version": "8.15.2",
+      "revision": "f18403d7bf49b574a2a1c6887dbe9c696a5125fc"
+    }
+  ],
+  "packages": [
+    {
+      "name": "ffmpeg",
+      "version": "6.0.1-6",
+      "sha256": {
+        "amd64": "92d859895f7cb2f6428fe7e1299ce14959948a1e48a0b22a339c17f66970c45e",
+        "arm64": "c54657f94247bb082fa04ec2e9ab3d68a8ae8d4ff879f52a4cea18f073cdf3ba"
+      }
+    }
+  ]
+}
